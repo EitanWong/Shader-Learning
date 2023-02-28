@@ -1,4 +1,4 @@
-Shader "Leaning/CGPROGRAM/cg1"
+Shader "Learning/CGPROGRAM/cg1"
 {
     
     SubShader
