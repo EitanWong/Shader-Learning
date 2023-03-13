@@ -7,5 +7,6 @@ public class Uniform : MonoBehaviour
     
     private void Update() {
         GetComponent<Renderer>().material.SetVector("_SecondColor", secondColor);
+        
     }
 }
