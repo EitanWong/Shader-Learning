@@ -17,7 +17,6 @@ public class VoiceControl : MonoBehaviour
         clip=Microphone.Start(device,true,999,44100);
         mat=GetComponent<Renderer>().sharedMaterial;
         
-        
     }
 
     private void Update() {

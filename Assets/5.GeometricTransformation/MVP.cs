@@ -5,6 +5,7 @@ public class MVP : MonoBehaviour
 
     void Update()
     {
+        
         //构建绕Y轴旋转的矩阵
         Matrix4x4 rm=new Matrix4x4();
         rm[0,0]=Mathf.Cos(Time.realtimeSinceStartup);

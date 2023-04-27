@@ -1,4 +1,4 @@
-Shader "ShaderLeaning/VertexDistortion/vf2"
+Shader "ShaderLearning/VertexDistortion/vf2"
 {
 
     Properties{

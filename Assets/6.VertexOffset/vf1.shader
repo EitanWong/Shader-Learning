@@ -1,4 +1,4 @@
-Shader "ShaderLeaning/VertexOffset/vf1"
+Shader "ShaderLearning/VertexOffset/vf1"
 {
 
     Properties{

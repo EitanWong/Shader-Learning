@@ -1,4 +1,4 @@
-Shader "ShaderLeaning/VertexDistortion/vf1"
+Shader "ShaderLearning/VertexDistortion/vf1"
 {
 
     Properties{
