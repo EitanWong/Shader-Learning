@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+#macOS
+.DS_Store
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -25,7 +28,7 @@
 
 # Visual Studio cache directory
 .vs/
-.vscode/
+.vscode
 
 # Gradle cache directory
 .gradle/
